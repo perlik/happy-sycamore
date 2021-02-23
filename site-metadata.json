@@ -67,7 +67,7 @@
                     },
                     {
                         "type": "action",
-                        "label": "Sign Up",
+                        "label": "Kontakt",
                         "url": "/signup",
                         "style": "link"
                     },
