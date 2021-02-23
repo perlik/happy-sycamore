@@ -35,7 +35,7 @@
             {
                 "type": "action",
                 "label": "Sklep Internetowy",
-                "url": "/signup",
+                "url": "/",
                 "style": "primary"
             }
         ]
