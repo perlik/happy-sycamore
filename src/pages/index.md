@@ -111,7 +111,7 @@ sections:
         style: primary
   - type: section_posts
     section_id: recent-posts
-    title: Latest Posts
+    title: Artykuły
     background: gray
 seo:
   type: stackbit_page_meta
