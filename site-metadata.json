@@ -11,19 +11,19 @@
             {
                 "type": "action",
                 "label": "Strona Główna",
-                "url": "/features",
+                "url": "/",
                 "style": "link"
             },
             {
                 "type": "action",
                 "label": "Produkty",
-                "url": "/features",
+                "url": "/",
                 "style": "link"
             },
             {
                 "type": "action",
                 "label": "Siec Sprzedazy",
-                "url": "/pricing",
+                "url": "/",
                 "style": "link"
             },
             {
