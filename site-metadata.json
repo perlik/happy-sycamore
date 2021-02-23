@@ -96,7 +96,7 @@
             {
                 "type": "footer_form",
                 "title": "Newsletter",
-                "content": "Zostaw maila aby otrzymać kod rabatowy -50% do sklepu online\n",
+                "content": "Zostaw maila aby otrzymać kod rabatowy -40% do sklepu online\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
