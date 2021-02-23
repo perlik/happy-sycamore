@@ -51,7 +51,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Firma",
                 "nav_links": [
                     {
                         "type": "action",
