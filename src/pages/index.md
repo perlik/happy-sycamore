@@ -19,7 +19,7 @@ sections:
     subtitle: Nasze wafle to połączenie wysokiej jakości surowców oraz doskonałej metody pieczenia. wraz z autorską i unikalną w skali światowej technologię 
     
     
-    Wafle dobre! produkujemy z najlepszej jakości pełnych ziaren zbóż. Stosujemy autorską i unikalną w skali światowej technologię pieczenia. Proces przgotowania produktu  Dzięki temu jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
+    Wafle dobre! produkujemy z najlepszej jakości pełnych ziaren zbóż. Stosujemy autorską i unikalną w skali światowej technologię pieczenia. Dzięki temu jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
     background: gray
     features:
       - type: feature_item
