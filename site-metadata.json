@@ -93,7 +93,6 @@
                     {
                         "type": "action",
                         "label": "LinkedIn",
-                        "url": "https://www.facebook.com/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
