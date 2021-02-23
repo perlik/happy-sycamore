@@ -11,7 +11,7 @@
             {
                 "type": "action",
                 "label": "Strona Główna",
-                "url": "/",
+                "url": "/features",
                 "style": "link"
             },
             {
