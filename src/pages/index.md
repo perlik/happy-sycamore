@@ -56,7 +56,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature_item
-        title: dobre! wafle zbożowe
+        title: dobre! wafle żytnie
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
