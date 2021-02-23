@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Zastosowanie najlepszej jakości pełnych ziaren zbóż oraz autorskiej i unikalnej w skali światowej technologi pieczenia zaaowocowało powstaniem produktów o niesłychanych walorach smakowych. 
+    subtitle: Zastosowanie najlepszej jakości pełnych ziaren zbóż oraz autorskiej i unikalnej w skali światowej technologi pieczenia zaaowocowało powstaniem produktów o niesłychanych walorach smakowych. Nasze pro
     background: gray
     features:
       - type: feature_item
