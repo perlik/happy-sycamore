@@ -96,7 +96,7 @@
             {
                 "type": "footer_form",
                 "title": "Odbierz rabat -40% na zakupy online",
-                "content": "podaj e-mail w polu poniżej",
+                
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
