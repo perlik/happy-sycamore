@@ -95,7 +95,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Odbierz KOD zniżkowy -40%",
+                "title": "Odbierz KOD do sklepu -40%",
                 "content": "Zostaw maila aby otrzymać kod rabatowy -40% do sklepu online\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
