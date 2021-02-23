@@ -55,7 +55,7 @@
                 "nav_links": [
                     {
                         "type": "action",
-                        "label": "O Nas",
+                        "label": "Produkty",
                         "url": "/about",
                         "style": "link"
                     },
