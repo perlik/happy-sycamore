@@ -85,7 +85,6 @@
                     {
                         "type": "action",
                         "label": "Twitter",
-                        "url": "caf",
                         "style": "link",
                         "has_icon": true,
                         "icon": "facebook",
