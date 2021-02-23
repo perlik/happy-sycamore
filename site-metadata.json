@@ -61,7 +61,7 @@
                     },
                     {
                         "type": "action",
-                        "label": "Blog",
+                        "label": "Sieć sprzedaży",
                         "url": "/blog",
                         "style": "link"
                     },
