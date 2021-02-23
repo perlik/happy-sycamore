@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Marka !dobre wafle zbożowe to połączenie wysokiej jakości surowców oraz  wraz z autorską i unikalną w skali światowej technologię 
+    subtitle: Marka !dobre wafle zbożowe to połączenie wysokiej jakości surowców oraz doskonałej metody  wraz z autorską i unikalną w skali światowej technologię 
     
     
     Wafle dobre! produkujemy z najlepszej jakości pełnych ziaren zbóż. Stosujemy autorską i unikalną w skali światowej technologię pieczenia. Dzięki temu jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
