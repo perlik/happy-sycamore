@@ -13,8 +13,31 @@
                 "label": "Strona Główna",
                 "url": "/",
                 "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Produkty",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Siec Sprzedazy",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "O Nas",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Sklep Internetowy",
+                "url": "/signup",
+                "style": "primary"
             }
-           
         ]
     },
     "footer": {
