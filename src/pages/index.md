@@ -17,9 +17,6 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     background: gray
     features:
       - type: feature_item
