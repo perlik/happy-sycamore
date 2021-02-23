@@ -73,7 +73,6 @@
                     },
                     {
                         "type": "action",
-                        "label": "Contact",
                         "url": "/contact",
                         "style": "link"
                     }
