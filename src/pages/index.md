@@ -73,7 +73,7 @@ sections:
             icon_position: right
   - type: section_reviews
     section_id: reviews
-    title: Testimonials
+    title: Opinie Klientów
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
@@ -84,23 +84,22 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Nigdy nie jadłem niczego lepszego. Od teraz jem tylko wafle. Gdybym
+          mógł to zamieszkałbym w kartonie obok maszyny która robi te wafle.
       - type: review_item
         author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Nigdy nie jadłem niczego lepszego. Od teraz jem tylko wafle. Gdybym
+          mógł to zamieszkałbym w kartonie obok maszyny która robi te wafle.
       - type: review_item
         author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Nigdy nie jadłem niczego lepszego. Od teraz jem tylko wafle. Gdybym
+          mógł to zamieszkałbym w kartonie obok maszyny która robi te wafle.
   - type: section_cta
     section_id: call-to-action
     title: This Is Call To Action Block!
