@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: 
+    subtitle: Wafle dobre! 
     background: gray
     features:
       - type: feature_item
