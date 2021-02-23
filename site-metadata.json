@@ -71,11 +71,7 @@
                         "url": "/signup",
                         "style": "link"
                     },
-                    {
-                        "type": "action",
-                        "url": "/signup",
-                        "style": "link"
-                    }
+                   
                 ]
             },
             {
