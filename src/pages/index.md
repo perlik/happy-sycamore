@@ -16,6 +16,11 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
+    subtitle: >-
+      Zastosowanie najlepszej jakości pełnych ziaren zbóż oraz autorskiej i
+      unikalnej w skali światowej technologii pieczenia zaaowocowało powstaniem
+      produktów o niesłychanych walorach smakowych. Gwarantujemy, że dobre!
+      wafle staną się Twoimi ulubionymi :)
     background: gray
     features:
       - type: feature_item
