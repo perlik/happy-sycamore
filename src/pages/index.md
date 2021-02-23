@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Wafle dobre! produkujemy z pełnowartościowych zbóż. 
+    subtitle: Wafle dobre! produkujemy z pełnowartościowych zbóż najlepszej jakości. 
     background: gray
     features:
       - type: feature_item
