@@ -101,7 +101,9 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Kup wafle przez Internet!
-    subtitle: Użyj kodu PROMOCJA aby obniżyć wartość zamówienia o 40%
+    subtitle: >-
+      Użyj kodu PROMOCJA aby obniżyć wartość zamówienia o 40%. Dla zamówień
+      powyżej 50 zł wysyłka gratis!
     actions:
       - type: action
         label: Sklep
