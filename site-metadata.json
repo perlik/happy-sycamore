@@ -67,7 +67,7 @@
                     },
                     {
                         "type": "action",
-                        "label": "Sieć Sprzedaży",
+                        "label": "",
                         "url": "/",
                         "style": "link"
                     },
