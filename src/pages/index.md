@@ -101,7 +101,7 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Kup wafle przez Internet!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Użyj kodu PROMOCJA aby obniżyć wartość zamówienia o 40%
     actions:
       - type: action
         label: Sklep
