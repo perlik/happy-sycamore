@@ -56,13 +56,13 @@
                     {
                         "type": "action",
                         "label": "Produkty",
-                        "url": "/about",
+                        "url": "/signup",
                         "style": "link"
                     },
                     {
                         "type": "action",
                         "label": "O Nas",
-                        "url": "/about",
+                        "url": "/signup",
                         "style": "link"
                     },
                     {
