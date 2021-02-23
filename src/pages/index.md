@@ -45,7 +45,7 @@ sections:
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: /images/risette-multicereal-min.png
+        image: /images/SAVE_20210223_221051-removebg-preview.png
         image_alt: App users welcoming a new member
         actions:
           - type: action
