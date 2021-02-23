@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: Dlaczego dobre! wafle zbożowe są tak smaczne?
+    title: Dlaczego dobre! wafle są tak smaczne?
     content: |
       Sprawdź co jest sekretem doskonałego smaku oraz niezwykłej chrupkości!
     image: /images/1524237923530-removebg.png
