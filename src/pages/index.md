@@ -74,9 +74,7 @@ sections:
   - type: section_reviews
     section_id: reviews
     title: Opinie Klientów
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Zobacz co mówią nasi klienci
     background: white
     reviews:
       - type: review_item
