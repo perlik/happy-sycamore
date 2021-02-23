@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Zastosowanie Wafle dobre! produkujemy z najlepszej jakości pełnych ziaren zbóż. Stosujemy autorską i unikalną w skali światowej technologię pieczenia. Dzięki temu jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
+    subtitle: Zastosowanie najlepszej jakości pełnych ziaren zbóż. Stosujemy autorską i unikalną w skali światowej technologię pieczenia. Dzięki temu jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
     background: gray
     features:
       - type: feature_item
