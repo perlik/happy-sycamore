@@ -86,6 +86,8 @@
                         "type": "action",
                         "label": "Facebook",
                         "style": "link",
+                        "url": "https://www.facebook.com/",
+
                         "has_icon": true,
                         "icon": "facebook",
                         "icon_position": "left"
