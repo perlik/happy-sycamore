@@ -10,7 +10,7 @@
         "nav_links": [
             {
                 "type": "action",
-                "label": "Home",
+                "label": "Strona Główna",
                 "url": "/",
                 "style": "link"
             },
