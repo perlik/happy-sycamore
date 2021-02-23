@@ -73,7 +73,7 @@
                     },
                     {
                         "type": "action",
-                        "label": "Kontakt",
+                        "label": "Producent",
                         "url": "/",
                         "style": "link"
                     }
