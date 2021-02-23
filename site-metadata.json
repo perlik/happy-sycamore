@@ -56,25 +56,25 @@
                     {
                         "type": "action",
                         "label": "Produkty",
-                        "url": "/signup",
+                        "url": "/",
                         "style": "link"
                     },
                     {
                         "type": "action",
                         "label": "O Nas",
-                        "url": "/signup",
+                        "url": "/",
                         "style": "link"
                     },
                     {
                         "type": "action",
                         "label": "Sieć Sprzedaży",
-                        "url": "/signup",
+                        "url": "/",
                         "style": "link"
                     },
                     {
                         "type": "action",
                         "label": "Kontakt",
-                        "url": "/signup",
+                        "url": "/",
                         "style": "link"
                     }
                 ]
