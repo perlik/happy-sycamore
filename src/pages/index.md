@@ -4,9 +4,8 @@ sections:
   - type: section_hero
     section_id: hero
     title: dobre! wafle zbożowe
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      sprawdź 
     image: /images/1524237923530-removebg.png
     image_alt: App preview
     actions:
