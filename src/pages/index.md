@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Wafle dobre! produkujemy z pełnowartościowych zbóż najlepszej jakości. Dzięki zastosowaniu unikalnej w skali światowej technologii pieczenia jesteśmy w stanie zaproponować produkt o niesłychanych walorach 
+    subtitle: Wafle dobre! produkujemy z pełnowartościowych zbóż najlepszej jakości. Dzięki zastosowaniu unikalnej w skali światowej technologii pieczenia jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
     background: gray
     features:
       - type: feature_item
