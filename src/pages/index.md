@@ -5,7 +5,7 @@ sections:
     section_id: hero
     title: dobre! wafle zbożowe
     content: |
-      sprawdź 
+      Sprawdź co jest sekretem doskonałego smaku oraz niezwykłej chrupkości!
     image: /images/1524237923530-removebg.png
     image_alt: App preview
     actions:
