@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Nasze wafle 
+    subtitle: Nasze
     background: gray
     features:
       - type: feature_item
