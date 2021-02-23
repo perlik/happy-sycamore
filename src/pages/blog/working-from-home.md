@@ -7,7 +7,7 @@ excerpt: >-
   parenting into his or her business activities.
 image: images/9.jpg
 image_alt: People in a conference room
-thumb_image: images/9_thumb.jpg
+thumb_image: /images/22853935-puffed-rice-snack-on-the-white-background.jpg
 thumb_image_alt: People in a conference room
 seo:
   type: stackbit_page_meta
