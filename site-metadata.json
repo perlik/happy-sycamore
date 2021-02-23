@@ -105,7 +105,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "op",
+                        "default_value": "podaj e-mail",
                         "is_required": true
                     }
                 ],
