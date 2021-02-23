@@ -16,7 +16,7 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Wafle dobre! produkujemy bezpośrednio z ziaren zbóż. Nie używamy do procukji mąki Dzięki zastosowaniu unikalnej w skali światowej technologii pieczenia jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
+    subtitle: Wafle dobre! produkujemy z pełnych ziaren zbóż. Nie używamy do procukji mąki Dzięki zastosowaniu unikalnej w skali światowej technologii pieczenia jesteśmy w stanie zaproponować produkt o niesłychanych walorach smakowych.
     background: gray
     features:
       - type: feature_item
