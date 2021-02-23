@@ -62,7 +62,7 @@
                     {
                         "type": "action",
                         "label": "Sieć Sprzedaży",
-                        "url": "/blog",
+                        "url": "/signup",
                         "style": "link"
                     },
                     {
