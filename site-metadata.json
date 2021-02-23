@@ -95,7 +95,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Odbierz KOD do sklepu -40%",
+                "title": "Odbierz rabat -40% na zakupy online",
                 "content": "Zostaw maila aby otrzymać kod rabatowy -40% do sklepu online\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
