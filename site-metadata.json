@@ -61,6 +61,12 @@
                     },
                     {
                         "type": "action",
+                        "label": "O Nas",
+                        "url": "/about",
+                        "style": "link"
+                    },
+                    {
+                        "type": "action",
                         "label": "Sieć Sprzedaży",
                         "url": "/signup",
                         "style": "link"
