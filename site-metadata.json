@@ -67,7 +67,7 @@
                     },
                     {
                         "type": "action",
-                        "label": "",
+                        "label": "On Nas",
                         "url": "/",
                         "style": "link"
                     },
