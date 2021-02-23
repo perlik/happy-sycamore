@@ -18,7 +18,7 @@ sections:
     section_id: features
     title: Produkty
     background: gray
-    features:
+    features: aaa
       - type: feature_item
         title: The Best Feature of Your Services
         content: >-
