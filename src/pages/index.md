@@ -16,10 +16,6 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Nasze wafle to połączenie wysokiej jakości surowców oraz doskonałej metody pieczenia. wraz z autorską i unikalną w skali światowej technologię 
-    
-    
-    
     background: gray
     features:
       - type: feature_item
