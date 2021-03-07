@@ -16,7 +16,8 @@ sections:
   - type: section_features
     section_id: features
     title: Produkty
-    subtitle: Zastosowanie najlepszej jakości pełnych ziaren zbóż oraz autorskiej i
+    subtitle: >-
+      Zastosowanie najlepszej jakości pełnych ziaren zbóż oraz autorskiej i
       unikalnej w skali światowej technologii pieczenia zaaowocowało powstaniem
       produktów o niesłychanych walorach smakowych. Gwarantujemy, że dobre!
       wafle staną się Twoimi ulubionymi.
@@ -28,7 +29,7 @@ sections:
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: /images/SAVE_20210223_221051-removebg-preview.png
+        image: /images/Himalayan-salt-Big.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
