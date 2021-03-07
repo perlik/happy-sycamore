@@ -10,7 +10,7 @@ excerpt: >-
   aliquet rhoncus sed, hendrerit vel odio.
 image: images/10.jpg
 image_alt: Business people in a meeting
-thumb_image: /images/SAVE_20210223_221051-removebg-preview.png
+thumb_image: /images/22853935-puffed-rice-snack-on-the-white-background.jpg
 thumb_image_alt: Business people in a meeting
 seo:
   type: stackbit_page_meta
